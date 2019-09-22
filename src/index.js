@@ -1,12 +1,13 @@
-function eval() {
-    // Do not use eval!!!
-    return;
-}
+// function eval() {
+//     // Do not use eval!!!
+//     return;
+// }
 
 function expressionCalculator(expr) {
-    // write your solution here
+    var result = expr;
+    return result;
 }
 
-module.exports = {
-    expressionCalculator
-}
+// module.exports = {
+//     expressionCalculator
+// }
